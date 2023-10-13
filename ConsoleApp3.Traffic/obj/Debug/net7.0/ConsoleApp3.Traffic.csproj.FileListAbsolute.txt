@@ -1,0 +1,14 @@
+C:\Users\volos\RiderProjects\ConsoleApp3\ConsoleApp3.Traffic\bin\Debug\net7.0\ConsoleApp3.Traffic.exe
+C:\Users\volos\RiderProjects\ConsoleApp3\ConsoleApp3.Traffic\bin\Debug\net7.0\ConsoleApp3.Traffic.deps.json
+C:\Users\volos\RiderProjects\ConsoleApp3\ConsoleApp3.Traffic\bin\Debug\net7.0\ConsoleApp3.Traffic.runtimeconfig.json
+C:\Users\volos\RiderProjects\ConsoleApp3\ConsoleApp3.Traffic\bin\Debug\net7.0\ConsoleApp3.Traffic.dll
+C:\Users\volos\RiderProjects\ConsoleApp3\ConsoleApp3.Traffic\bin\Debug\net7.0\ConsoleApp3.Traffic.pdb
+C:\Users\volos\RiderProjects\ConsoleApp3\ConsoleApp3.Traffic\obj\Debug\net7.0\ConsoleApp3.Traffic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\volos\RiderProjects\ConsoleApp3\ConsoleApp3.Traffic\obj\Debug\net7.0\ConsoleApp3.Traffic.AssemblyInfoInputs.cache
+C:\Users\volos\RiderProjects\ConsoleApp3\ConsoleApp3.Traffic\obj\Debug\net7.0\ConsoleApp3.Traffic.AssemblyInfo.cs
+C:\Users\volos\RiderProjects\ConsoleApp3\ConsoleApp3.Traffic\obj\Debug\net7.0\ConsoleApp3.Traffic.csproj.CoreCompileInputs.cache
+C:\Users\volos\RiderProjects\ConsoleApp3\ConsoleApp3.Traffic\obj\Debug\net7.0\ConsoleApp3.Traffic.dll
+C:\Users\volos\RiderProjects\ConsoleApp3\ConsoleApp3.Traffic\obj\Debug\net7.0\refint\ConsoleApp3.Traffic.dll
+C:\Users\volos\RiderProjects\ConsoleApp3\ConsoleApp3.Traffic\obj\Debug\net7.0\ConsoleApp3.Traffic.pdb
+C:\Users\volos\RiderProjects\ConsoleApp3\ConsoleApp3.Traffic\obj\Debug\net7.0\ConsoleApp3.Traffic.genruntimeconfig.cache
+C:\Users\volos\RiderProjects\ConsoleApp3\ConsoleApp3.Traffic\obj\Debug\net7.0\ref\ConsoleApp3.Traffic.dll

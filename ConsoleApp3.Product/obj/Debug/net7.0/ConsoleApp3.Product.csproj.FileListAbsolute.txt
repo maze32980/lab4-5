@@ -1,0 +1,14 @@
+C:\Users\volos\RiderProjects\ConsoleApp3\ConsoleApp3.Product\bin\Debug\net7.0\ConsoleApp3.Product.exe
+C:\Users\volos\RiderProjects\ConsoleApp3\ConsoleApp3.Product\bin\Debug\net7.0\ConsoleApp3.Product.deps.json
+C:\Users\volos\RiderProjects\ConsoleApp3\ConsoleApp3.Product\bin\Debug\net7.0\ConsoleApp3.Product.runtimeconfig.json
+C:\Users\volos\RiderProjects\ConsoleApp3\ConsoleApp3.Product\bin\Debug\net7.0\ConsoleApp3.Product.dll
+C:\Users\volos\RiderProjects\ConsoleApp3\ConsoleApp3.Product\bin\Debug\net7.0\ConsoleApp3.Product.pdb
+C:\Users\volos\RiderProjects\ConsoleApp3\ConsoleApp3.Product\obj\Debug\net7.0\ConsoleApp3.Product.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\volos\RiderProjects\ConsoleApp3\ConsoleApp3.Product\obj\Debug\net7.0\ConsoleApp3.Product.AssemblyInfoInputs.cache
+C:\Users\volos\RiderProjects\ConsoleApp3\ConsoleApp3.Product\obj\Debug\net7.0\ConsoleApp3.Product.AssemblyInfo.cs
+C:\Users\volos\RiderProjects\ConsoleApp3\ConsoleApp3.Product\obj\Debug\net7.0\ConsoleApp3.Product.csproj.CoreCompileInputs.cache
+C:\Users\volos\RiderProjects\ConsoleApp3\ConsoleApp3.Product\obj\Debug\net7.0\ConsoleApp3.Product.dll
+C:\Users\volos\RiderProjects\ConsoleApp3\ConsoleApp3.Product\obj\Debug\net7.0\refint\ConsoleApp3.Product.dll
+C:\Users\volos\RiderProjects\ConsoleApp3\ConsoleApp3.Product\obj\Debug\net7.0\ConsoleApp3.Product.pdb
+C:\Users\volos\RiderProjects\ConsoleApp3\ConsoleApp3.Product\obj\Debug\net7.0\ConsoleApp3.Product.genruntimeconfig.cache
+C:\Users\volos\RiderProjects\ConsoleApp3\ConsoleApp3.Product\obj\Debug\net7.0\ref\ConsoleApp3.Product.dll
